@@ -33,5 +33,4 @@ Projeto acadêmico voltado à aplicação de **Machine Learning** na previsão d
 
 ## Contato
 
-**LinkedIn:** linkedin.com/in/vicenzodev  
-**Portfólio:** vicenzo.dev
+**LinkedIn:** linkedin.com/in/vicenzodev
