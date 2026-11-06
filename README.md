@@ -1,36 +1,37 @@
 # Heitor Vicenzo
 
-**Backend / Full Stack Developer**
+**Desenvolvedor Backend & Full Stack | PHP · TypeScript · SQL**
 
-Desenvolvedor de software com experiência em aplicações web, APIs, bancos de dados e integração de sistemas, com foco em Backend e Full Stack.
+Desenvolvo aplicações web e mobile, APIs e integrações de sistemas para resolver problemas reais. Minha experiência profissional na área financeira complementa minha visão técnica com entendimento de processos, regras de negócio e automação.
 
-Atualmente concluo Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba e desenvolvo projetos utilizando PHP, JavaScript, TypeScript, React e bancos de dados SQL.
+Estou concluindo o curso de **Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba**. Tenho interesse especial em backend, integração entre sistemas e aplicações orientadas a dados.
 
-Minha experiência profissional na área financeira também me permite trabalhar com sistemas a partir de uma visão prática de processos, regras de negócio e automação.
+## Projetos selecionados
 
-## Tecnologias
+### [V3Dev — Gestão de operações de impressão 3D](https://github.com/vicenzodev/V3Dev)
+**PHP · MySQL · WebSockets**
 
-**Backend:** PHP • Node.js • APIs REST  
-**Frontend:** JavaScript • TypeScript • React • Next.js  
-**Banco de dados:** SQL • MySQL • PostgreSQL • Prisma ORM  
-**Ferramentas:** Git • GitHub • Linux • WebSockets  
+Sistema web para organizar operações de um estúdio de impressão 3D. Inclui funcionalidades de gestão e comunicação com impressora em rede. Um dos principais desafios técnicos foi estudar a comunicação do equipamento e implementar a integração via WebSockets.
 
-Atualmente aprofundando conhecimentos em **Laravel, testes automatizados e Docker**.
+### [JDPass — Gestão de credenciais (projeto acadêmico)](https://github.com/vicenzodev/JDPass)
+**Next.js · TypeScript · Prisma · PostgreSQL**
 
-## Projetos em destaque
+Aplicação acadêmica para gerenciamento de credenciais, desenvolvida no contexto de um projeto da FATEC Indaiatuba. Demonstra desenvolvimento full stack, modelagem relacional, autenticação e interfaces administrativas.
 
-### JDPass
-Aplicação Full Stack para gerenciamento de credenciais, desenvolvida com **Next.js, TypeScript, PostgreSQL e Prisma**, incluindo autenticação JWT, controle de acesso, criptografia, logs e dashboard.
+### [L3DC — Aplicativo mobile de impressão 3D](https://github.com/vicenzodev/L3DC)
+**React Native · Expo · TypeScript · SQLite**
 
-### V3Dev
-Sistema web em **PHP e MySQL** para gerenciamento de operações de impressão 3D, com cálculo de custos e preços e integração em rede com impressora via WebSockets.
+Aplicativo mobile para organizar e documentar projetos de impressão 3D, com armazenamento local e operações de cadastro e consulta.
 
-### VFinance
-Aplicação de gestão financeira com foco em **DRE, fluxo de caixa, cartões de crédito e projeções financeiras**.
+## Tecnologias e competências
 
-### Trabalho de Graduação
-Projeto acadêmico voltado à aplicação de **Machine Learning** na previsão de produção e apoio à tomada de decisão.
+**Backend:** PHP, Node.js, APIs REST, integrações e WebSockets  
+**Web e mobile:** JavaScript, TypeScript, React, Next.js e React Native  
+**Bancos de dados:** SQL, MySQL, PostgreSQL, SQLite e Prisma  
+**Ferramentas:** Git, GitHub e Linux
+
+**Em evolução:** testes automatizados, Docker, qualidade de software e integração contínua.
 
 ## Contato
 
-**LinkedIn:** linkedin.com/in/vicenzodev
+[LinkedIn](https://www.linkedin.com/in/vicenzodev/) · [GitHub](https://github.com/vicenzodev)
