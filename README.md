@@ -6,7 +6,7 @@ Desenvolvo aplicações, APIs e integrações que conectam tecnologia a problema
 
 **Análise e Desenvolvimento de Sistemas** — FATEC Indaiatuba (em conclusão)  
 Indaiatuba, São Paulo, Brasil  
-Interesse profissional: **Análise de Dados | BI | Backend | Full Stack **
+Interesse profissional: **Análise de Dados | BI | Backend | Full Stack**
 
 ---
 
