@@ -1,7 +1,5 @@
 # Heitor Vicenzo
 
-# Heitor Vicenzo
-
 **Desenvolvedor Backend & Full Stack | Python, TypeScript, PHP e SQL**
 
 Desenvolvo aplicações, APIs e integrações que conectam tecnologia a problemas reais de negócio. Tenho experiência profissional em processos financeiros e aplico essa visão de negócio no desenvolvimento de software e em projetos orientados a dados.
