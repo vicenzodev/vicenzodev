@@ -1,36 +1,66 @@
 # Heitor Vicenzo
 
-**Backend / Full Stack Developer**
+# Heitor Vicenzo
 
-Desenvolvedor de software com experiência em aplicações web, APIs, bancos de dados e integração de sistemas, com foco em Backend e Full Stack.
+**Desenvolvedor Backend & Full Stack | Python, TypeScript, PHP e SQL**
 
-Atualmente concluo Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba e desenvolvo projetos utilizando PHP, JavaScript, TypeScript, React e bancos de dados SQL.
+Desenvolvo aplicações, APIs e integrações que conectam tecnologia a problemas reais de negócio. Tenho experiência profissional em processos financeiros e aplico essa visão de negócio no desenvolvimento de software e em projetos orientados a dados.
 
-Minha experiência profissional na área financeira também me permite trabalhar com sistemas a partir de uma visão prática de processos, regras de negócio e automação.
+**Análise e Desenvolvimento de Sistemas** — FATEC Indaiatuba (em conclusão)  
+Indaiatuba, São Paulo, Brasil  
+Interesse profissional: **Análise de Dados | BI | Backend | Full Stack **
+
+---
+
+## Projeto principal
+
+### [Popdiction — Previsão de demanda com Machine Learning](https://github.com/vicenzodev/Popdiction)
+
+**Python · FastAPI · scikit-learn · pandas · SQLite · APIs REST**
+
+Aplicação voltada à previsão de demanda de produtos a partir do histórico de vendas e de variáveis que influenciam o consumo. O projeto utiliza **Random Forest Regressor** e integra informações como **temperatura, umidade, feriados e sazonalidade** para construir variáveis utilizadas pelo modelo.
+
+**O que o projeto demonstra**
+- Preparação de dados e engenharia de atributos a partir de históricos de vendas.
+- Treinamento e avaliação de modelos por produto, com separação temporal de treino e teste.
+- Desenvolvimento de API REST para importação de históricos, treinamento e consulta de previsões.
+- Integração com fontes externas de dados de clima e feriados.
+
+[Explorar o Popdiction e sua implementação](https://github.com/vicenzodev/Popdiction)
+
+---
+
+## Outros projetos
+
+### [V3Dev — Gestão e integração com impressora 3D](https://github.com/vicenzodev/V3Dev)
+**PHP · MySQL · WebSockets**
+
+Aplicação web para organizar operações de impressão 3D, incluindo gestão de pedidos, modelos e custos. Um desafio técnico central foi implementar a comunicação em rede com uma impressora 3D por meio de WebSockets.
+
+### [JDPass — Gerenciador de credenciais (projeto acadêmico)](https://github.com/vicenzodev/JDPass)
+**Next.js · TypeScript · PostgreSQL · Prisma**
+
+Projeto acadêmico de aplicação full stack para gerenciamento de credenciais, com banco de dados relacional, autenticação, interfaces administrativas e registros de atividades. Em evolução, com foco em aprimorar segurança e testes.
+
+### [L3DC — Aplicativo mobile para projetos de impressão 3D](https://github.com/vicenzodev/L3DC)
+**React Native · Expo · TypeScript · SQLite**
+
+Aplicativo acadêmico para registrar e organizar projetos de impressão 3D, com armazenamento local e operações de cadastro e consulta.
+
+---
 
 ## Tecnologias
 
-**Backend:** PHP • Node.js • APIs REST  
-**Frontend:** JavaScript • TypeScript • React • Next.js  
-**Banco de dados:** SQL • MySQL • PostgreSQL • Prisma ORM  
-**Ferramentas:** Git • GitHub • Linux • WebSockets  
+| Área | Tecnologias |
+| --- | --- |
+| **Backend e APIs** | Python, FastAPI, PHP, Node.js, APIs REST |
+| **Frontend e mobile** | JavaScript, TypeScript, React, Next.js, React Native |
+| **Dados e Machine Learning** | SQL, pandas, scikit-learn, preparação de dados |
+| **Bancos de dados** | MySQL, PostgreSQL, SQLite, Prisma ORM |
+| **Ferramentas e integrações** | Git, GitHub, Linux, WebSockets |
 
-Atualmente aprofundando conhecimentos em **Laravel, testes automatizados e Docker**.
+Estou aprofundando meus conhecimentos em **testes automatizados, Docker e integração contínua**.
 
-## Projetos em destaque
+## Conecte-se comigo
 
-### JDPass
-Aplicação Full Stack para gerenciamento de credenciais, desenvolvida com **Next.js, TypeScript, PostgreSQL e Prisma**, incluindo autenticação JWT, controle de acesso, criptografia, logs e dashboard.
-
-### V3Dev
-Sistema web em **PHP e MySQL** para gerenciamento de operações de impressão 3D, com cálculo de custos e preços e integração em rede com impressora via WebSockets.
-
-### VFinance
-Aplicação de gestão financeira com foco em **DRE, fluxo de caixa, cartões de crédito e projeções financeiras**.
-
-### Trabalho de Graduação
-Projeto acadêmico voltado à aplicação de **Machine Learning** na previsão de produção e apoio à tomada de decisão.
-
-## Contato
-
-**LinkedIn:** linkedin.com/in/vicenzodev
+[LinkedIn](https://www.linkedin.com/in/vicenzodev/) · [Ver meus repositórios](https://github.com/vicenzodev?tab=repositories)
